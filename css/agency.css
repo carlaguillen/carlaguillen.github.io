@@ -147,8 +147,10 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #222222;
+  background-color: #eb6622;
   border-color: transparent;
+  padding-top: 8px; 
+  padding-top: 8px; 
 }
 .navbar-custom .navbar-brand {
   color: #eb6622;
@@ -247,6 +249,8 @@ header .intro-text .intro-lead-in {
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
+  padding-top: 50px;
+
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
